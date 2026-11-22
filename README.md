@@ -63,7 +63,6 @@ The notebook installs `ultralytics` itself, trains all 3 experiments, evaluates 
 - Classes are imbalanced: Glasses has only 14 examples.
 - Validation and test sets are small (10 and 3 images), so the metrics vary a lot between runs.
 
----
 
 ## 👥 Team
 
