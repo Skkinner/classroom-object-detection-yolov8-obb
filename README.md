@@ -70,6 +70,6 @@ The notebook installs `ultralytics` itself, trains all 3 experiments, evaluates 
 |---|---|
 | Fahad Al-Nahi | [@Skkinner](https://github.com/Skkinner) |
 | Daniyah ALeid | [@DAleid](https://github.com/DAleid) |
-| name | [@username](https://github.com/Lamyaa315) |
+| Lamya Alnahdi | [@Lamyaa315(https://github.com/Lamyaa315)]|
 | Abdulrhman | [@Abdulrhman3333]
 (https://github.com/Abdulrhman3333) |
