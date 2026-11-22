@@ -62,3 +62,14 @@ The notebook installs `ultralytics` itself, trains all 3 experiments, evaluates 
 - A small dataset (43 images) from a single classroom, so the model may not generalise to other rooms or lighting.
 - Classes are imbalanced: Glasses has only 14 examples.
 - Validation and test sets are small (10 and 3 images), so the metrics vary a lot between runs.
+
+---
+
+## 👥 Team
+
+| Name | GitHub |
+|---|---|
+| Fahad Al-Nahi | [@Skkinner](https://github.com/Skkinner) |
+| name | [@username](https://github.com/username) |
+| name | [@username](https://github.com/username) |
+| name | [@username](https://github.com/username) |
